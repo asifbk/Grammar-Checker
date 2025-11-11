@@ -1,0 +1,21 @@
+time,f05,err,grade_level,model,Structure Type
+2.85,0.545,40.00%,0.52,llama3.2,Subject Verb Agreement
+2.66,0.517,60.00%,0.52,mistral,
+7.69,0.545,40.00%,0.52,deepseek-r1:7b,
+4.06,0.545,40.00%,0.52,gemma3,
+0.5,0.5,50.00%,8.38,llama3.2,Redundant Comparison
+0.41,0.463,16.67%,0.52,mistral,
+6.68,0.463,16.67%,0,deepseek-r1:7b,
+4,0.5,16.67%,0.52,gemma3,
+0.49,0.556,33.33%,0.52,llama3.2,Incorrect Preposition Usage
+0.38,0.463,16.67%,0,mistral,
+8.71,0.291,83.33%,0,deepseek-r1:7b,
+4.03,0.463,16.67%,0,gemma3,
+0.39,0.581,33.33%,2.31,llama3.2,Missing Article
+0.43,0.469,16.67%,0,mistral,
+10.02,0.469,16.67%,0,deepseek-r1:7b,
+4.05,0.469,16.67%,0,gemma3,
+0.48,0.536,25.00%,3.67,llama3.2,Incorrect Word Form
+0.43,0.536,25.00%,3.67,mistral,
+7.3,0.536,25.00%,2.88,deepseek-r1:7b,
+3.97,0.536,25.00%,3.67,gemma3,

@@ -1,0 +1,17 @@
+timestamp,words,time,f05,err,gleu,grade_level,language,style,model
+10/16/2025 15:44,64,1.29,0.572,30.16%,0.241,8,English,Casual,mistral
+10/16/2025 15:45,64,11.16,0.572,30.16%,0.224,8,English,Casual,deepseek-r1:7b
+10/16/2025 15:45,64,5.7,0.568,28.57%,0.259,7,English,Casual,llama3.2
+10/16/2025 15:45,64,1.63,0.568,28.57%,0.259,7,English,Casual,gemma3
+10/16/2025 15:45,117,4.48,0.575,28.45%,0.297,14,English,Academic,llama3.2
+10/16/2025 15:46,117,2.36,0.581,30.17%,0.321,14,English,Academic,mistral
+10/16/2025 15:46,117,16.48,0.602,39.66%,0.215,14,English,Academic,deepseek-r1:7b
+10/16/2025 15:46,117,6.68,0.532,23.28%,0.381,14,English,Academic,gemma3
+10/16/2025 15:46,137,2.69,0.412,13.24%,0.541,17,English,Formal,gemma3
+10/16/2025 15:46,137,4.71,0.473,16.91%,0.485,17,English,Formal,llama3.2
+10/16/2025 15:46,137,2.87,0.482,17.65%,0.481,17,English,Formal,mistral
+10/16/2025 15:47,137,16.03,0.484,17.65%,0.504,17,English,Formal,deepseek-r1:7b
+10/16/2025 15:47,138,5.11,0.446,15.33%,0.496,18,English,Professional,llama3.2
+10/16/2025 15:47,138,2.85,0.437,14.60%,0.519,18,English,Professional,mistral
+10/16/2025 15:48,138,19.07,0.509,20.44%,0.468,17,English,Professional,deepseek-r1:7b
+10/16/2025 15:48,138,6.74,0.396,12.41%,0.537,18,English,Professional,gemma3
